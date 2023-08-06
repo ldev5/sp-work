@@ -138,8 +138,8 @@ const defaultConfig = {
 				align: "left",
 				links: [
 					{
-						name: "GitHub",
-						url: "https://github.com",
+						name: "GitHob",
+						url: "https://githob.com",
 						icon: "mdi:github"
 					},
 					{
