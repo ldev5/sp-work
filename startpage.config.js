@@ -129,17 +129,17 @@ const defaultConfig = {
 						name: "OCI",
 						url: "https://www.oracle.com/cloud/",
 						icon: "simple-icons:oracle"
-					}
+					},
 					{
 						name: "OCI",
 						url: "https://www.oracle.com/cloud/",
 						icon: "simple-icons:oracle"
-					}
+					},
 					{
 						name: "OCI",
 						url: "https://www.oracle.com/cloud/",
 						icon: "simple-icons:oracle"
-					}
+					},
 					{
 						name: "OCI",
 						url: "https://www.oracle.com/cloud/",
@@ -279,17 +279,17 @@ const defaultConfig = {
 						name: "9To5 Linux",
 						url: "https://9to5linux.com/",
 						icon: "uil:linux"
-					}
+					},
 					{
 						name: "9To5 Linux",
 						url: "https://9to5linux.com/",
 						icon: "uil:linux"
-					}
+					},
 					{
 						name: "9To5 Linux",
 						url: "https://9to5linux.com/",
 						icon: "uil:linux"
-					}
+					},
 					{
 						name: "9To5 Linux",
 						url: "https://9to5linux.com/",
