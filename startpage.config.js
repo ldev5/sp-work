@@ -19,12 +19,12 @@ const defaultConfig = {
 	wallpaper: {
 		url: "",
 		easing: "ease-in-out",
-		fadeIn: true,
-		blur: true
+		fadeIn: false,
+		blur: false
 	},
 	terminal: {
-		fixedHeight: true,
-		windowGlow: true,
+		fixedHeight: false,
+		windowGlow: false,
 		textGlow: false
 	},
 	prompt: {
@@ -62,7 +62,7 @@ const defaultConfig = {
 		hoverColor: "violet"
 	},
 	search: {
-		default: "https://google.com/search?q=",
+		default: "https://startpage.com/do/search?q=",
 		target: "_self",
 		shortcutRegex: "([A-Za-z0-9]+) (.*)",
 		shortcuts: [
@@ -125,6 +125,21 @@ const defaultConfig = {
 						url: "https://chat.openai.com/",
 						icon: "simple-icons:openai"
 					},
+					{
+						name: "OCI",
+						url: "https://www.oracle.com/cloud/",
+						icon: "simple-icons:oracle"
+					}
+					{
+						name: "OCI",
+						url: "https://www.oracle.com/cloud/",
+						icon: "simple-icons:oracle"
+					}
+					{
+						name: "OCI",
+						url: "https://www.oracle.com/cloud/",
+						icon: "simple-icons:oracle"
+					}
 					{
 						name: "OCI",
 						url: "https://www.oracle.com/cloud/",
@@ -260,6 +275,21 @@ const defaultConfig = {
 						url: "https://itsfoss.com/",
 						icon: "ri:mastodon-fill"
 					},
+					{
+						name: "9To5 Linux",
+						url: "https://9to5linux.com/",
+						icon: "uil:linux"
+					}
+					{
+						name: "9To5 Linux",
+						url: "https://9to5linux.com/",
+						icon: "uil:linux"
+					}
+					{
+						name: "9To5 Linux",
+						url: "https://9to5linux.com/",
+						icon: "uil:linux"
+					}
 					{
 						name: "9To5 Linux",
 						url: "https://9to5linux.com/",
